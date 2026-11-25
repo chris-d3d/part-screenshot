@@ -1,0 +1,9 @@
+call part_screenshot.bat --part R0093916/01 --folder C:\screenshots
+call part_screenshot.bat --part R0069006/01 --folder C:\screenshots
+call part_screenshot.bat --part R0069006/07 --folder C:\screenshots
+call part_screenshot.bat --part R0099108/01 --folder C:\screenshots
+call part_screenshot.bat --part R0095944/01 --folder C:\screenshots
+call part_screenshot.bat --part R0092622/03 --folder C:\screenshots
+call part_screenshot.bat --part R0085298/02 --folder C:\screenshots
+call part_screenshot.bat --part KIT0098972/01 --folder C:\screenshots
+call part_screenshot.bat --part KIT0099000/01 --folder C:\screenshots
